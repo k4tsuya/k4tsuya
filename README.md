@@ -12,7 +12,7 @@ Hello world! I'm Liang Yi or you can just call me Liang. I'm fascinated by all k
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 # 📊 GitHub Stats:
-<a href="http://www.github.com/k4tsuya" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=Tequali&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Tequali's GitHub stats" /></a>
+<a href="http://www.github.com/k4tsuya" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=k4tsuya&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Tequali's GitHub stats" /></a>
 ![](https://github-readme-stats.vercel.app/api?username=k4tsuya&theme=vue-dark&hide_border=false&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=k4tsuya&theme=vue-dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=k4tsuya&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
