@@ -13,8 +13,7 @@ Hello world! I'm Liang Yi or you can just call me Liang. I'm fascinated by all k
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=k4tsuya&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br>
-![](https://github-readme-stats.vercel.app/api?username=k4tsuya&theme=vue-dark&hide_border=false&count_hidde=true)
-![](https://nirzak-streak-stats.vercel.app/?user=k4tsuya&theme=vue-dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=k4tsuya&theme=vue-dark&hide_border=false&count_hidde=true)![](https://nirzak-streak-stats.vercel.app/?user=k4tsuya&theme=vue-dark&hide_border=false)<br/>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=k4tsuya&theme=default&no-frame=true&no-bg=true&margin-w=4)
